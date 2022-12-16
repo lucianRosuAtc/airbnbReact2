@@ -5,7 +5,7 @@ To be able to install the app, you need to use VS Code. Create a project in Reac
 
 "npm run dev"  Runs the app in the development mode. Open   http://localhost:127.0.0.1 to view it in your browser.
 
- More informations in the React Vite documentation:  https://vitejs.dev/guide/#scaffolding-your-first-vite-project
+ More informations in the React Vite documentation:  https://vitejs.dev/guide/#scaffolding-your-first-vite-project :relaxed:
  
  
  
